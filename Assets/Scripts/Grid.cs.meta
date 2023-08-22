@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7ddfaaca15ff0194dbd6f9a5b11dfcc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - debugGridObjectPrefab: {fileID: 3006603597104096789, guid: f85770acab4de444282ef5c94b7ce5ee, type: 3}
+  - prefabs: {fileID: 4250973612527027586, guid: 8c21acc9927b44649958c7fb0f90ba75, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
